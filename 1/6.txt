@@ -1,0 +1,1 @@
+It recurses infinitely due to applicative-order evaluation. (sqrt-iter (impreve guess x) x) is evaluated whether it is true or false.

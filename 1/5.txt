@@ -1,0 +1,3 @@
+Applicative-order evaluation should infinitely recurse.
+
+Normal-order evaluation should return 0.
